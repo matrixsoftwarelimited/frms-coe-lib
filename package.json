@@ -11,7 +11,7 @@
     "lib"
   ],
   "publishConfig": {
-    "@tazama-lf:registry": "https://npm.pkg.github.com/"
+    "@matrixsoftwarelimited:registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "build": "tsc --project tsconfig.json && copyfiles -f src/helpers/proto/*.proto lib/helpers/proto",
