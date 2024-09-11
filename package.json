@@ -1,11 +1,11 @@
 {
-  "name": "@tazama-lf/frms-coe-lib",
+  "name": "@matrixsoftwarelimited/frms-coe-lib",
   "version": "4.2.0-rc.0",
   "description": "FRMS Center of Excellence package library",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tazama-lf/frms-coe-lib.git"
+    "url": "git+https://github.com/matrixsoftwarelimited/frms-coe-lib.git"
   },
   "files": [
     "lib"
